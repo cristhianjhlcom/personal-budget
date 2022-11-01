@@ -9,7 +9,7 @@
     "test": "mocha test/"
   },
   "keywords": [],
-  "author": "Cristhian Hernande<cristhianjhl.com>",
+  "author": "Cristhian Hernandez<cristhianjhl.com>",
   "license": "MIT",
   "dependencies": {
     "dotenv": "16.0.3",
